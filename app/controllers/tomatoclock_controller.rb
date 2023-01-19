@@ -1,0 +1,2 @@
+class TomatoclockController < ApplicationController
+end
